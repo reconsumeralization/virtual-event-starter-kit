@@ -45,8 +45,8 @@ dependencies:
     specifier: ^3.22.0
     version: 3.22.0(react-dom@18.3.1)(react@18.3.1)
   '@react-stately/overlays':
-    specifier: ^3.6.6
-    version: 3.6.6(react@18.3.1)
+    specifier: ^3.6.19
+    version: 3.6.19(react@18.3.1)
   '@supabase/supabase-js':
     specifier: ^1.35.4
     version: 1.35.7
@@ -1466,7 +1466,7 @@ packages:
       '@react-aria/interactions': 3.21.2(react@18.3.1)
       '@react-aria/utils': 3.24.0(react@18.3.1)
       '@react-stately/form': 3.0.2(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -1489,7 +1489,7 @@ packages:
       '@react-stately/virtualizer': 3.7.0(react@18.3.1)
       '@react-types/checkbox': 3.8.0(react@18.3.1)
       '@react-types/grid': 3.2.5(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
@@ -1662,7 +1662,7 @@ packages:
       '@react-aria/ssr': 3.9.3(react@18.3.1)
       '@react-aria/utils': 3.24.0(react@18.3.1)
       '@react-aria/visually-hidden': 3.8.11(react@18.3.1)
-      '@react-stately/overlays': 3.6.6(react@18.3.1)
+      '@react-stately/overlays': 3.6.19(react@18.3.1)
       '@react-types/button': 3.9.3(react@18.3.1)
       '@react-types/overlays': 3.8.6(react@18.3.1)
       '@react-types/shared': 3.23.0(react@18.3.1)
@@ -1798,7 +1798,7 @@ packages:
       '@react-aria/live-announcer': 3.3.3
       '@react-aria/utils': 3.24.0(react@18.3.1)
       '@react-types/button': 3.9.3(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
@@ -1900,7 +1900,7 @@ packages:
       '@react-aria/label': 3.7.7(react@18.3.1)
       '@react-aria/utils': 3.24.0(react@18.3.1)
       '@react-stately/form': 3.0.2(react@18.3.1)
-      '@react-stately/utils': 3.10.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
       '@react-types/shared': 3.23.0(react@18.3.1)
       '@react-types/textfield': 3.9.2(react@18.3.1)
       '@swc/helpers': 0.5.11
@@ -1967,9 +1967,9 @@ packages:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
       '@internationalized/date': 3.5.3
-      '@react-stately/utils': 3.10.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
       '@react-types/calendar': 3.4.5(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -1980,9 +1980,9 @@ packages:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
       '@react-stately/form': 3.0.2(react@18.3.1)
-      '@react-stately/utils': 3.10.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
       '@react-types/checkbox': 3.8.0(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -1992,7 +1992,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2005,11 +2005,11 @@ packages:
       '@react-stately/collections': 3.10.6(react@18.3.1)
       '@react-stately/form': 3.0.2(react@18.3.1)
       '@react-stately/list': 3.10.4(react@18.3.1)
-      '@react-stately/overlays': 3.6.6(react@18.3.1)
+      '@react-stately/overlays': 3.6.19(react@18.3.1)
       '@react-stately/select': 3.6.3(react@18.3.1)
-      '@react-stately/utils': 3.10.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
       '@react-types/combobox': 3.11.0(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2022,10 +2022,10 @@ packages:
       '@internationalized/date': 3.5.3
       '@internationalized/string': 3.2.2
       '@react-stately/form': 3.0.2(react@18.3.1)
-      '@react-stately/overlays': 3.6.6(react@18.3.1)
-      '@react-stately/utils': 3.10.0(react@18.3.1)
+      '@react-stately/overlays': 3.6.19(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
       '@react-types/datepicker': 3.7.3(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2036,7 +2036,7 @@ packages:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
       '@react-stately/selection': 3.15.0(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2052,7 +2052,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2065,7 +2065,7 @@ packages:
       '@react-stately/collections': 3.10.6(react@18.3.1)
       '@react-stately/selection': 3.15.0(react@18.3.1)
       '@react-types/grid': 3.2.5(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2077,8 +2077,8 @@ packages:
     dependencies:
       '@react-stately/collections': 3.10.6(react@18.3.1)
       '@react-stately/selection': 3.15.0(react@18.3.1)
-      '@react-stately/utils': 3.10.0(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2088,9 +2088,9 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-stately/overlays': 3.6.6(react@18.3.1)
+      '@react-stately/overlays': 3.6.19(react@18.3.1)
       '@react-types/menu': 3.9.8(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2102,19 +2102,19 @@ packages:
     dependencies:
       '@internationalized/number': 3.5.2
       '@react-stately/form': 3.0.2(react@18.3.1)
-      '@react-stately/utils': 3.10.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
       '@react-types/numberfield': 3.8.2(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
 
-  /@react-stately/overlays@3.6.6(react@18.3.1):
-    resolution: {integrity: sha512-NvzQXh4zYGZuUmZH5d3NmEDNr8r1hfub2s5w7WOeIG35xqIzoKGdFZ7LLWrie+4nxPmM+ckdfqOQ9pBZFNJypQ==}
+  /@react-stately/overlays@3.6.19(react@18.3.1):
+    resolution: {integrity: sha512-swZXfDvxTYd7tKEpijEHBFFaEmbbnCvEhGlmrAz4K72cuRR9O5u+lcla8y1veGBbBSzrIdKNdBoIIJ+qQH+1TQ==}
     peerDependencies:
-      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
     dependencies:
-      '@react-stately/utils': 3.10.0(react@18.3.1)
-      '@react-types/overlays': 3.8.6(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
+      '@react-types/overlays': 3.9.1(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2125,9 +2125,9 @@ packages:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
       '@react-stately/form': 3.0.2(react@18.3.1)
-      '@react-stately/utils': 3.10.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
       '@react-types/radio': 3.8.0(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2137,7 +2137,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-stately/utils': 3.10.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
       '@react-types/searchfield': 3.5.4(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
@@ -2150,9 +2150,9 @@ packages:
     dependencies:
       '@react-stately/form': 3.0.2(react@18.3.1)
       '@react-stately/list': 3.10.4(react@18.3.1)
-      '@react-stately/overlays': 3.6.6(react@18.3.1)
+      '@react-stately/overlays': 3.6.19(react@18.3.1)
       '@react-types/select': 3.9.3(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2163,8 +2163,8 @@ packages:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
       '@react-stately/collections': 3.10.6(react@18.3.1)
-      '@react-stately/utils': 3.10.0(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2174,8 +2174,8 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-stately/utils': 3.10.0(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@react-types/slider': 3.7.2(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
@@ -2190,9 +2190,9 @@ packages:
       '@react-stately/flags': 3.0.2
       '@react-stately/grid': 3.8.6(react@18.3.1)
       '@react-stately/selection': 3.15.0(react@18.3.1)
-      '@react-stately/utils': 3.10.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
       '@react-types/grid': 3.2.5(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@react-types/table': 3.9.4(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
@@ -2204,7 +2204,7 @@ packages:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
       '@react-stately/list': 3.10.4(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@react-types/tabs': 3.3.6(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
@@ -2226,7 +2226,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-stately/overlays': 3.6.6(react@18.3.1)
+      '@react-stately/overlays': 3.6.19(react@18.3.1)
       '@react-types/tooltip': 3.4.8(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
@@ -2239,8 +2239,8 @@ packages:
     dependencies:
       '@react-stately/collections': 3.10.6(react@18.3.1)
       '@react-stately/selection': 3.15.0(react@18.3.1)
-      '@react-stately/utils': 3.10.0(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-stately/utils': 3.10.8(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2254,13 +2254,22 @@ packages:
       react: 18.3.1
     dev: false
 
+  /@react-stately/utils@3.10.8(react@18.3.1):
+    resolution: {integrity: sha512-SN3/h7SzRsusVQjQ4v10LaVsDc81jyyR0DD5HnsQitm/I5WDpaSr2nRHtyloPFU48jlql1XX/S04T2DLQM7Y3g==}
+    peerDependencies:
+      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
+    dependencies:
+      '@swc/helpers': 0.5.11
+      react: 18.3.1
+    dev: false
+
   /@react-stately/virtualizer@3.7.0(react@18.3.1):
     resolution: {integrity: sha512-Wkh502y6mzUvjJJr30p5FLRwBaphnfmnoSnGwidamwo3HuyrDICBSlwFGPl0AmUHo1afSaLXl6j8smU48VcClA==}
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
       '@react-aria/utils': 3.24.0(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@swc/helpers': 0.5.11
       react: 18.3.1
     dev: false
@@ -2271,7 +2280,7 @@ packages:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
       '@react-types/link': 3.5.4(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2290,7 +2299,7 @@ packages:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
       '@internationalized/date': 3.5.3
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2299,7 +2308,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2308,7 +2317,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2319,8 +2328,8 @@ packages:
     dependencies:
       '@internationalized/date': 3.5.3
       '@react-types/calendar': 3.4.5(react@18.3.1)
-      '@react-types/overlays': 3.8.6(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/overlays': 3.9.1(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2339,7 +2348,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2348,7 +2357,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2357,7 +2366,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2366,8 +2375,8 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/overlays': 3.8.6(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/overlays': 3.9.1(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2385,7 +2394,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2398,12 +2407,21 @@ packages:
       react: 18.3.1
     dev: false
 
+  /@react-types/overlays@3.9.1(react@18.3.1):
+    resolution: {integrity: sha512-UCG3TOu8FLk4j0Pr1nlhv0opcwMoqbGEOUvsSr6ITN6Qs2y0j+KYSYQ7a4+04m3dN//8+9Wjkkid8k+V1dV2CA==}
+    peerDependencies:
+      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
+    dependencies:
+      '@react-types/shared': 3.32.0(react@18.3.1)
+      react: 18.3.1
+    dev: false
+
   /@react-types/progress@3.5.3(react@18.3.1):
     resolution: {integrity: sha512-IcICNYRPFHQxl6iXi5jDgSZ3I9k2UQ2rIFcnoGo43K0hekv6fRdbbXWJU9ndShs3OfCHTPHEV5ooYB3UujNOAQ==}
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2412,7 +2430,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2421,7 +2439,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       '@react-types/textfield': 3.9.2(react@18.3.1)
       react: 18.3.1
     dev: false
@@ -2431,7 +2449,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2443,12 +2461,20 @@ packages:
       react: 18.3.1
     dev: false
 
+  /@react-types/shared@3.32.0(react@18.3.1):
+    resolution: {integrity: sha512-t+cligIJsZYFMSPFMvsJMjzlzde06tZMOIOFa1OV5Z0BcMowrb2g4mB57j/9nP28iJIRYn10xCniQts+qadrqQ==}
+    peerDependencies:
+      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
+    dependencies:
+      react: 18.3.1
+    dev: false
+
   /@react-types/slider@3.7.2(react@18.3.1):
     resolution: {integrity: sha512-HvC/Mdt/z741xcU0ymeNxslnowQ5EAHOSzyf2JMgXmle+pEIbbepz5QUVaOmEveQHS3bjxE/+n2yBTKbxP8CJg==}
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2457,7 +2483,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2467,7 +2493,7 @@ packages:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
       '@react-types/grid': 3.2.5(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2476,7 +2502,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2485,7 +2511,7 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
@@ -2494,8 +2520,8 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
-      '@react-types/overlays': 3.8.6(react@18.3.1)
-      '@react-types/shared': 3.23.0(react@18.3.1)
+      '@react-types/overlays': 3.9.1(react@18.3.1)
+      '@react-types/shared': 3.32.0(react@18.3.1)
       react: 18.3.1
     dev: false
 
