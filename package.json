@@ -63,7 +63,7 @@
     "@types/smoothscroll-polyfill": "0.3.4",
     "@types/validator": "13.11.9",
     "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.14",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-hover-media-feature": "1.0.2",
     "postcss-preset-env": "9.5.9",
